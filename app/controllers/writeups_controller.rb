@@ -1,0 +1,2 @@
+class WriteupsController < ApplicationController
+end

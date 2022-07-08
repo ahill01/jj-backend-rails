@@ -1,0 +1,2 @@
+class WriteupTagsController < ApplicationController
+end
